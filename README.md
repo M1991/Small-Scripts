@@ -4,7 +4,7 @@
 
 ### Contents
 
-1. 3 Moving balls from Right to left with Red, Blue and Yellow color
+1. 3 Moving balls from Right to left with Red, Yellow and Blue color
 
 
 ### JS Fiddles  : 
