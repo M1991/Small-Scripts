@@ -1,0 +1,22 @@
+#Div1, #Div2, #Div3 {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    right: 0px
+}
+
+#Div1 {
+    background: red;
+    margin-left: 40px;
+}
+    
+#Div2 {
+    background: yellow;
+    margin-left: 200px;            
+}
+
+#Div3 {
+    background: blue;
+    margin-left: 355px;            
+}
